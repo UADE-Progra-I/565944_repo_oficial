@@ -1,15 +1,15 @@
 """
-PLAN DE TRABAJO
-1. Imprimimos un mensaje de bienvenida
-2. Leer el nombre de estudiante por consola
+CONSIGNA:
+Se nos solicita crear un bloque de código que realice lo siguiente:
+
+1. Imprimir un mensaje de bienvenida
+2. Leer el nombre de un estudiante por consola
 3. Verificar que sea un nombre válido
 4. Si es válido guardarlo en la lista global
 5. Si es inválido, mostrar un mensaje en la consola
-
-Primero lo hacemos en un bloque de código
-y luego lo separamos en funciones para mejorar la organización y reutilización del código.
-
+6. A fin de poder repetir el flujo, incluir el código dentro de un bucle while
 """
+
 # Declaramos una lista global para almacenar los nombres de los estudiantes
 estudiantes = []
 
