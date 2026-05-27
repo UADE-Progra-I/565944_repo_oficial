@@ -27,7 +27,7 @@ def main():
                 # Alta de producto
                 try:
                     producto = inputHandler.leer_producto()
-                    response = services.persistir_producto(productos, producto)
+                    response = services.crear_producto_producto(productos, producto)
                     print("Producto insertado exitosamente") if response else None
                 except Exception as e:
                     print(f"Error al crear el producto: {e}")

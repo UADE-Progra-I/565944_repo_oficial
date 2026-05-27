@@ -1,0 +1,4 @@
+=== Log del sistema ===
+Producto agregado: Lápiz negro HB
+Producto agregado: Bolígrafo azul
+Producto eliminado: id=1

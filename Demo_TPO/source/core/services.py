@@ -13,7 +13,7 @@ def generar_id_producto(productos):
 
 
 # Funcion persistir producto
-def persistir_producto(productos, producto):
+def crear_producto(productos, producto):
     producto["id_producto"] = generar_id_producto(productos)
     productos.append(producto)
     return True
