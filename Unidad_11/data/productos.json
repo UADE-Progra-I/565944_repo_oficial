@@ -16,5 +16,11 @@
         "categoria": "Papelería",
         "nombre": "Cuaderno A4",
         "precio_unitario": 1200.0
+    },
+    {
+        "id_producto": 4,
+        "categoria": "Papelería",
+        "nombre": "Cuaderno A1",
+        "precio_unitario": 1300.0
     }
 ]
